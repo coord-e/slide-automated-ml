@@ -3,7 +3,7 @@
 }
 
 .reveal .slides {
-  width: 1020px;
+  width: 1020px !important;
 }
 
 .reveal section img {
@@ -12,5 +12,5 @@
 }
 
 .small {
-  font-size: 1rem;
+  font-size: 1rem !important;
 }
