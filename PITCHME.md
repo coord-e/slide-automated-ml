@@ -150,10 +150,7 @@ Amazon MLとか
 
 AWS Lambdaとか
 
-![Search](assets/google.png) <!-- .element: class="fragment" -->
-
-
-そもそも5分まで <!-- .element: class="fragment" -->
+![Search](assets/google.png)
 
 ---
 
