@@ -108,7 +108,7 @@ Terraform!
 
 - TagのせいでGitHubのreleasesが増えまくる
 - hashが指定できれば別にtagじゃなくて良いのでは
-- 異常終了とかで`shutdown`が効かず、多額の請求  (実話)
+- 異常終了とかで`shutdown`が効かず、多額の請求が (実話)
 
 ---
 
@@ -158,7 +158,7 @@ AWS Lambdaとか
 
 ---
 
-# これだ(悟り
+# これだ
 
 ---
 
@@ -166,7 +166,7 @@ AWS Lambdaとか
 
 (どっかーん) <!-- .element: class="small" -->
 
-コミットIDをブランチを環境変数から指定できるようにする
+コミットIDやブランチを環境変数から指定できるようにする
 
 ```bash
 git config remote.origin.fetch "+refs/heads/*:refs/remotes/origin/*"
