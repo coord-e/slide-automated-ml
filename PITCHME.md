@@ -1,11 +1,11 @@
 
-<!-- .slide: data-background-image="./assets/md/assets/top.png" data-background-size="100% auto" data-background-color=" " data-background-position="center" data-state="bg-img-opacity-15" -->
+<!-- .slide: data-background-image="./assets/top.png" data-background-size="100% auto" data-background-color=" " data-background-position="center" data-state="bg-img-opacity-15" -->
 # 完全自動
 # 機械学習
 
 ---
 
-<!-- .slide: data-background-image="./assets/md/assets/pika.png" data-background-size="100% auto" data-background-color=" " data-background-position="center" data-state="bg-img-opacity-15" -->
+<!-- .slide: data-background-image="./assets/pika.png" data-background-size="100% auto" data-background-color=" " data-background-position="center" data-state="bg-img-opacity-15" -->
 
 ## 自己紹介
 
