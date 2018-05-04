@@ -87,6 +87,8 @@ Terraform!
 
 ---?image=assets/arch.png&size=contain
 
+---?image=assets/starttrain.png&size=contain
+
 ---?image=assets/discord.png&size=contain
 
 ---?image=assets/travis.png&size=contain
