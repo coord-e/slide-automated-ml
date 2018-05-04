@@ -108,7 +108,7 @@ Terraform!
 
 - TagのせいでGitHubのreleasesが増えまくる
 - hashが指定できれば別にtagじゃなくて良いのでは
-- 異常終了とかで`shutdown`が効かず、多額の請求が (実話)
+- 異常終了とかで`shutdown`が効かず多額の請求が発生(実話)
 
 ---
 
@@ -151,8 +151,10 @@ AWS Lambdaとか
 
 # AWS Batch
 
+- キューがあって、そこにJobを追加していける
+- リソースが柔軟(4~255コアで適当にとか)
 - 環境はDocker
-- 5分以上も可能
+- 長時間も可能
 - 終わったら止まる
 - ログもCloudWatchで見れる
 
@@ -186,7 +188,7 @@ git pull
 
 ---
 
-# そしてBatchからJobをドン
+# そしてキューにJobを投げる
 
 ポチポチでも、シェルでもいけます
 
@@ -199,7 +201,11 @@ aws batch submit-job \
 
 ---
 
-# やったー
+# できた
+
+---?image=assets/batchjob.png&size=contain
+
+---?image=assets/batchlog.png&size=cover
 
 ---
 
