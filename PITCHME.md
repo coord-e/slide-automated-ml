@@ -91,13 +91,15 @@ Terraform!
 
 ---?image=assets/travis.png&size=contain
 
+---?image=assets/s3.png&size=contain
+
 ---
 
 # ここがすごい!
 
 - Tag付により、どの条件でやったかがコードを見れば一目瞭然
 - 進捗が見れるのはわかりやすい
-- 学習終了時にしっかり止まる(=安い!)
+- 自動保存が、いちいち落とさなくて良くて地味にありがたい
 - Travisのログがかっこいい
 
 ---
@@ -106,7 +108,7 @@ Terraform!
 
 - TagのせいでGitHubのreleasesが増えまくる
 - hashが指定できれば別にtagじゃなくて良いのでは
-- 異常終了とかで`shutdown`が効かず、多額の請求(実話)
+- 異常終了とかで`shutdown`が効かず、多額の請求  (実話)
 
 ---
 
