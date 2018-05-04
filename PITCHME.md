@@ -4,7 +4,7 @@
 
 ---?image=assets/top.png&size=cover
 
-## 自己紹介
+# 自己紹介
 
 - coord.e こーでぃ
 - Python, C++, 低レイヤ, フロントエンド <!-- .element: class="fragment" -->
@@ -15,7 +15,7 @@
 
 ---?image=assets/pika.png&size=cover
 
-## 問題
+# 問題
 
 機械学習は...
 - 何度もパラメーターを調整する必要がある
@@ -25,7 +25,7 @@
 
 ---
 
-## 解決策
+# 解決策
 
 自動化
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 解決策: Tag開始
+# 解決策: Tag開始
 
 - `git tag`されたときに学習を開始すれば、パラメーターがごちゃごちゃにならない
 - Travis CI
@@ -67,13 +67,13 @@ async def on_message(message):
 
 ---
 
-# これらをEC2に乗っければOK
+## これらをEC2に乗っければOK
 
 Terraform!
 
 ---
 
-## 構成
+# 構成
 
 - Tag時に開始: Travis CI
 - 進捗報告: Discord Bot
@@ -133,20 +133,20 @@ Terraform!
 
 ---
 
-# Machine Learning as a Service
+## Machine Learning as a Service
 
 Amazon MLとか
 
-## Pros:
+### Pros:
 - 楽(偏見)
 - 安い(偏見)
 
-## Cons:
+### Cons:
 - 既知の手法しか使えない (自由度が低い)
 
 ---
 
-# Function as a Service
+## Function as a Service
 
 AWS Lambdaとか
 
@@ -170,7 +170,7 @@ AWS Lambdaとか
 
 ---
 
-# Dockerfileを書いて...
+## Dockerfileを書いて...
 
 (どっかーん)
 
@@ -186,7 +186,7 @@ git pull
 
 ---
 
-# Docker HubのAutomated Buildに投げます
+## Docker HubのAutomated Buildに投げます
 
 くえうえど。
 
