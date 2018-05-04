@@ -172,7 +172,7 @@ AWS Lambdaとか
 
 ## Dockerfileを書いて...
 
-(どっかーん)
+(どっかーん) <!-- .element: class="small" -->
 
 コミットIDをブランチを環境変数から指定できるようにする
 
