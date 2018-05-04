@@ -1,0 +1,4 @@
+.reveal img, .reveal video, .reveal iframe {
+  max-height: 80vh;
+}
+
