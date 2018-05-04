@@ -1,8 +1,9 @@
+---?image=assets/top.png&size=cover
 
 # 完全自動
 # 機械学習
 
----?image=assets/top.png&size=cover
+---?image=assets/pika.png&size=cover
 
 # 自己紹介
 
@@ -13,7 +14,7 @@
 - @fa[twitter] @coord\_e
 - @fa[github] github.com/coord-e
 
----?image=assets/pika.png&size=cover
+---
 
 # 問題
 
