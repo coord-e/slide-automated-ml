@@ -1,2 +1,4 @@
 theme-override: PITCHME.css
 layout: center-left
+theme: white
+background : assets/bg.png
