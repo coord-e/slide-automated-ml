@@ -1,11 +1,8 @@
 
-<!-- .slide: data-background-image="./assets/top.png" data-background-size="100% auto" data-background-color=" " data-background-position="center" data-state="bg-img-opacity-15" -->
 # 完全自動
 # 機械学習
 
----
-
-<!-- .slide: data-background-image="./assets/pika.png" data-background-size="100% auto" data-background-color=" " data-background-position="center" data-state="bg-img-opacity-15" -->
+---?image=assets/top.png&size=cover
 
 ## 自己紹介
 
@@ -16,7 +13,7 @@
 - @fa[twitter] @coord\_e
 - @fa[github] github.com/coord-e
 
----
+---?image=assets/pika.png&size=cover
 
 ## 問題
 
