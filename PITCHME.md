@@ -85,19 +85,11 @@ Terraform!
 
 # できた
 
-![Architecture](assets/arch.png)
+---?image=assets/arch.png&size=contain
 
----
+---?image=assets/discord.png&size=contain
 
-# できた
-
-![Discord-Screenshot](assets/discord.png)
-
----
-
-# できた
-
-![Travis](assets/travis.png)
+---?image=assets/travis.png&size=contain
 
 ---
 
@@ -151,7 +143,7 @@ Amazon MLとか
 
 AWS Lambdaとか
 
-![Search](assets/google.png)
+---?image=assets/google.png&size=contain
 
 ---
 
