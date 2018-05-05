@@ -109,6 +109,7 @@ Terraform!
 # ここがダメ! (事実)
 
 - TagのせいでGitHubのreleasesが増えまくる
+- Tagでしか指定できないのは面倒
 - hashが指定できれば別にtagじゃなくて良いのでは
 - 異常終了とかで`shutdown`が効かず多額の請求が発生(実話)
 
