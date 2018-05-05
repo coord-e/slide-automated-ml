@@ -206,6 +206,8 @@ aws batch submit-job \
 
 # できた
 
+---?image=assets/batcharch.png&size=contain
+
 ---?image=assets/batchjob.png&size=contain
 
 ---?image=assets/batchlog.png&size=cover
