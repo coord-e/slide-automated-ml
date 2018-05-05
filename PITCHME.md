@@ -13,6 +13,7 @@
 
 - @fa[twitter] @coord\_e
 - @fa[github] github.com/coord-e
+- qiita.com/coord-e
 
 ---
 
